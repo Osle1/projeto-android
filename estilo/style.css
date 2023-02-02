@@ -71,6 +71,7 @@ nav {
 }
 
 nav > a {
+    display: inline-block;
     color: var(--cor1);
     padding: 10px;
     border-radius: 10px 10px 0px 0px;
